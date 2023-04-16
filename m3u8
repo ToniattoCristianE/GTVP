@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,AIRE DE SANTA FE 91.1 FM
-https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1,DEPORTV (TDA)
 https://www.youtube.com/embed/GXDJd0ilzxo
-#EXTINF:-1,RTVE
-https://www.youtube.com/embed/xR-4NDFsYNk
+#EXTINF:-1,NOTICIAS CARACOL (COLOMBIA)
+https://www.youtube.com/embed/iPnBv3mbYWk
 #EXTINF:-1,FRANCE 24
 https://www.youtube.com/embed/XDJPzMznAjU
 #EXTINF:-1,EURONEWS
@@ -25,8 +25,8 @@ https://www.youtube.com/embed/hRWSYm8yzcc
 https://www.youtube.com/embed/wBWK9tV9hBM
 #EXTINF:-1,EL DOCE TV (CORDOBA)
 https://www.youtube.com/embed/eoL3NU7DFTw
-#EXTINF:-1,EL CANAL DE LA CIUDAD
-https://www.youtube.com/embed/8u8rwXSvM
+#EXTINF:-1,CADENA 3 ARGENTINA
+https://www.youtube.com/embed/sEooidi0EAQ
 #EXTINF:-1,CANAL 8 (SAN JUAN)
 https://www.youtube.com/embed/UcwvdjCLgeI
 #EXTINF:-1,DW (ALEMANIA)
@@ -49,5 +49,43 @@ https://www.youtube.com/embed/qNyQYZMEDbA
 https://www.youtube.com/embed/PW05e8hatYY
 #EXTINF:-1,Positive Energy Relaxation Music TV
 https://www.youtube.com/embed/9Ivc0XBJr-Q
-#EXTINF:-1,ESPN PREMIUM
-https://futbolparatodos.online/canales/flowa.html?get=Fox_Sports_Premiun_HD&6
+#EXTINF:-1,CADENA 3 ARGENTINA (SANTA FE)
+https://www.youtube.com/embed/iZMhQAEJkG0
+EXTINF:-1,CADENA HEAT
+https://www.youtube.com/embed/vRqjPMu6jtM
+#EXTINF:-1,LA POPU
+https://www.youtube.com/embed/3mRRZ3J10rg
+#EXTINF:-1,MUSICA POP
+https://www.youtube.com/embed/HRWY57rGZik
+#EXTINF:-1,TVN CHILE
+https://www.youtube.com/embed/WoazJncJEAo
+#EXTINF:-1,URBANA PLAY
+https://www.youtube.com/embed/ivETiRwhYvo
+#EXTINF:-1,RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,CANAL 9 LITORAL
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1,CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1,CANAL MORTEROS (CORDOBA)
+https://coopmorteros.online/canal50/vivo.m3u8
+#EXTINF:-1,TELEVISION DIGITAL CODIFICADA
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w1404751649.m3u8
+#EXTINF:-1,TV PUBLICA (SERVIDOR CONTAR)
+https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
+#EXTINF:-1,CANAL ENCUENTRO (SERVIDOR CONTAR)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1742150529.m3u8
+#EXTINF:-1,DEPORTV (SERVIDOR CONTAR)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w309536149.m3u8
+#EXTINF:-1,PAKA PAKA (SERVIDOR CONTAR)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w802515283.m3u8
+#EXTINF:-1,AUNAR (SERVIDOR CONTAR)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/chunklist_w2010937950.m3u8
+#EXTINF:-1,CINE AR (SERVIDOR CONTAR)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w981123641.m3u8
+#EXTINF:-1,ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1,CANAL DE LA CUIDAD
+https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
+#EXTINF:-1,SANTA FE CANAL
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
