@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,AIRE DE SANTA FE 91.1 FM
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+https://sc1.stweb.tv/airedigital/live.m3u8
 #EXTINF:-1,DEPORTV (TDA)
 https://www.youtube.com/embed/GXDJd0ilzxo
 #EXTINF:-1,NOTICIAS CARACOL (COLOMBIA)
@@ -67,22 +67,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1,CANAL MORTEROS (CORDOBA)
-https://coopmorteros.online/canal50/vivo.m3u8
 #EXTINF:-1,TELEVISION DIGITAL CODIFICADA
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w1404751649.m3u8
-#EXTINF:-1,TV PUBLICA (SERVIDOR CONTAR)
-https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
-#EXTINF:-1,CANAL ENCUENTRO (SERVIDOR CONTAR)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1742150529.m3u8
-#EXTINF:-1,DEPORTV (SERVIDOR CONTAR)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w309536149.m3u8
-#EXTINF:-1,PAKA PAKA (SERVIDOR CONTAR)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w802515283.m3u8
-#EXTINF:-1,AUNAR (SERVIDOR CONTAR)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/chunklist_w2010937950.m3u8
-#EXTINF:-1,CINE AR (SERVIDOR CONTAR)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w981123641.m3u8
 #EXTINF:-1,ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1,CANAL DE LA CUIDAD
