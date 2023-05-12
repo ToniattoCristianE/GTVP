@@ -3,14 +3,14 @@
 https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8 
 #EXTINF:-1,DEPORTV (TDA)
 https://www.youtube.com/embed/GXDJd0ilzxo
-#EXTINF:-1,NOTICIAS CARACOL (COLOMBIA)
-https://www.youtube.com/embed/iPnBv3mbYWk
+#EXTINF:-1,Discovery ID
+http://177.93.50.42:9000/play/a01w/index.m3u8
 #EXTINF:-1,FRANCE 24
 https://www.youtube.com/embed/XDJPzMznAjU
 #EXTINF:-1,EURONEWS
 https://www.youtube.com/embed/O9mOtdZ-nSk
-#EXTINF:-1,TN
-https://www.youtube.com/embed/6hWHWGJ1Gbw
+#EXTINF:-1,Discovery Turbo
+http://177.93.50.42:9000/play/a03e/index.m3u8
 #EXTINF:-1,CRONICA TV
 https://www.youtube.com/embed/InSydaLSSlw
 #EXTINF:-1,LN +
