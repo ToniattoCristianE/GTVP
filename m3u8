@@ -125,23 +125,23 @@ https://edge-vod01-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1,Play Television (Esperanza)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:0,TELEFE HD
+#EXTINF:-1,TELEFE HD
 rtmp://sl100tb.cxnlive.com/live/telefe.stream
-#EXTINF:0,EL TRECE HD
+#EXTINF:-1,EL TRECE HD
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:0,CANAL 9 HD
 rtmp://sl100tb.cxnlive.com/live/canal9.stream
 #EXTINF:0,TV PUBLICA HD
 rtmp://sl100tb.cxnlive.com/live/tvpublica.stream
-#EXTINF:0,TyC Sports HD
+#EXTINF:-1,TyC Sports HD
 rtmp://sl100tb.cxnlive.com/live/tyc.stream
-#EXTINF:0,TN HD
+#EXTINF:-1,TN HD
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:0,C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
 #EXTINF:0,Canal 26 HD
 rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
-#EXTINF:0,ESPN +
+#EXTINF:-1,ESPN +
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:0,Magazine TV
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
