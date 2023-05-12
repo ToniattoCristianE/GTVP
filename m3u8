@@ -120,7 +120,7 @@ https://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1,CANAL 9 LITORAL
 https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
 #EXTINF:-1,ESPN EXTRA
-http://190.61.43.91:6500/play/a02l/index.m3u8
+https://edge-vod01-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 #EXTINF:-1,FM 104.5 POWER MAX TV (RECREO)
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1,Play Television (Esperanza)
