@@ -22,7 +22,7 @@ https://www.youtube.com/embed/eoL3NU7DFTw
 #EXTINF:-1,CADENA 3 ARGENTINA
 https://www.youtube.com/embed/sEooidi0EAQ
 #EXTINF:-1, EL TRECE TV
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1, AMERICA TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f60bb137-c474-40f5-a75e-bc0c567f002c:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 #EXTINF:-1,TELEMAX HD
