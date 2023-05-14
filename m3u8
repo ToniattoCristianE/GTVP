@@ -11,33 +11,33 @@ https://www.youtube.com/embed/O9mOtdZ-nSk
 https://www.youtube.com/embed/InSydaLSSlw
 #EXTINF:-1,LN +
 https://www.youtube.com/embed/4e8Iw3Frf1A
-#EXTINF:-1,TELEVISION PUBLICA (TDA)
-https://www.youtube.com/embed/kzvjgCiRy4Q
-#EXTINF:-1,CANAL 26
-https://www.youtube.com/embed/hRWSYm8yzcc
+#EXTINF:-1,NET TV
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,TELEFE
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1684179192~acl=%2f*~data=hdntl~hmac=0eaeb44b1696ae876422979780e8c8a9a294e4903c06e3047afddae810f4048d/master-mtlf3.m3u8
 #EXTINF:-1,C5N
 https://www.youtube.com/embed/wBWK9tV9hBM
 #EXTINF:-1,EL DOCE TV (CORDOBA)
 https://www.youtube.com/embed/eoL3NU7DFTw
 #EXTINF:-1,CADENA 3 ARGENTINA
 https://www.youtube.com/embed/sEooidi0EAQ
-#EXTINF:-1,CANAL 8 (SAN JUAN)
-https://www.youtube.com/embed/UcwvdjCLgeI
-#EXTINF:-1,DW (ALEMANIA)
-https://www.youtube.com/embed/s9YC9atoCc
-#EXTINF:-1,TELEFE CORDOBA
-https://www.youtube.com/embed/GDvXTvCuMbE
-#EXTINF:-1,TELEFE SALTA
-https://www.youtube.com/embed/hOBtTICzcZM
+#EXTINF:-1, EL TRECE TV
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+#EXTINF:-1, AMERICA TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f60bb137-c474-40f5-a75e-bc0c567f002c:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+#EXTINF:-1,TELEMAX HD
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1174600703.m3u8
+#EXTINF:-1,MULTIVISION FEDERAL HD
+https://panel.dattalive.com/8250/8250/chunklist_w188786266.m3u8
 #EXTINF:-1,INFORMACION PERIODISTICA TV
 https://www.youtube.com/embed/qQbhZp9lZKg
 #EXTINF:-1,DIPUTADOS TV
 https://www.youtube.com/embed/Gq6MIaZ501A
-#EXTINF:-1,AMERICAN SPORTS
-https://www.youtube.com/embed/PD4awtTH58A
-#EXTINF:-1,CANAL DEL VATICANO
-https://www.youtube.com/embed/3Pgc7ge-shM
-#EXTINF:-1,CANAL 13 (CHILE)
+#EXTINF:-1,KZO HD
+https://www.youtube.com/watch?v=u9W85StradY
+#EXTINF:-1,EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
+#EXTINF:-1,TELETRECE HD (CHILE)
 https://www.youtube.com/embed/qNyQYZMEDbA
 #EXTINF:-1,RADIO MITRE AM 790
 https://www.youtube.com/embed/PW05e8hatYY
