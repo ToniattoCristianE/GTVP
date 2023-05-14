@@ -14,7 +14,7 @@ https://www.youtube.com/embed/4e8Iw3Frf1A
 #EXTINF:-1,NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1684179192~acl=%2f*~data=hdntl~hmac=0eaeb44b1696ae876422979780e8c8a9a294e4903c06e3047afddae810f4048d/master-mtlf3.m3u8
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
 #EXTINF:-1,C5N
 https://www.youtube.com/embed/wBWK9tV9hBM
 #EXTINF:-1,EL DOCE TV (CORDOBA)
