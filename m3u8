@@ -28,7 +28,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f60bb13
 #EXTINF:-1,TELEMAX HD
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1174600703.m3u8
 #EXTINF:-1,MULTIVISION FEDERAL HD
-https://dattalive.com/8250/8250/chunklist_w188786266.m3u8
+https://panel.dattalive.com/8250/8250/chunklist_w962836630.m3u8
 #EXTINF:-1,INFORMACION PERIODISTICA TV
 https://www.youtube.com/embed/qQbhZp9lZKg
 #EXTINF:-1,DIPUTADOS TV
@@ -39,8 +39,8 @@ https://www.youtube.com/watch?v=u9W85StradY
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
 #EXTINF:-1,TELETRECE HD (CHILE)
 https://www.youtube.com/embed/qNyQYZMEDbA
-#EXTINF:-1,RADIO MITRE AM 790
-https://www.youtube.com/embed/PW05e8hatYY
+#EXTINF:-1,LINK TV (ESPERANZA)
+https://panel.dattalive.com/8128_1/8128_1/playlist.m3u8
 #EXTINF:-1,Positive Energy Relaxation Music TV
 https://www.youtube.com/embed/9Ivc0XBJr-Q
 #EXTINF:-1,LA POPU
