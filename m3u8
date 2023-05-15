@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,AIRE DE SANTA FE 91.1 FM
 https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8 
-#EXTINF:-1,DEPORTV (TDA)
-https://www.youtube.com/embed/GXDJd0ilzxo
+#EXTINF:-1,DEPORTV (HD)
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1,FRANCE 24
 https://www.youtube.com/embed/XDJPzMznAjU
 #EXTINF:-1,EURONEWS
@@ -14,9 +14,9 @@ https://www.youtube.com/embed/4e8Iw3Frf1A
 #EXTINF:-1,NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,TELEFE
-http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
-#EXTINF:-1,C5N
-https://www.youtube.com/embed/wBWK9tV9hBM
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+#EXTINF:-1,T5 SATELITAL (HD)
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1,EL DOCE TV (CORDOBA)
 https://www.youtube.com/embed/eoL3NU7DFTw
 #EXTINF:-1,CADENA 3 ARGENTINA
@@ -28,7 +28,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/f60bb13
 #EXTINF:-1,TELEMAX HD
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1174600703.m3u8
 #EXTINF:-1,MULTIVISION FEDERAL HD
-https://panel.dattalive.com/8250/8250/chunklist_w962836630.m3u8
+https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1,INFORMACION PERIODISTICA TV
 https://www.youtube.com/embed/qQbhZp9lZKg
 #EXTINF:-1,DIPUTADOS TV
@@ -57,8 +57,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w1404751649.m3u8
 #EXTINF:-1,ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1,CANAL DE LA CUIDAD
-https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
+#EXTINF:-1,CUIDAD MAGAZINE
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,SANTA FE CANAL
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1, MIX DEEP HOUSE 2023
@@ -107,16 +107,16 @@ https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1,RBD TV
 https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
-#EXTINF:-1,MULTIVISION TELEVISION DIGITAL
-https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:-1,24 HS (CHILE)
+https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 #EXTINF:-1,SUPER CINE TV
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
 #EXTINF:-1,EL GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,CANAL 9 LITORAL
-https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
-#EXTINF:-1,ESPN EXTRA
-https://edge-vod01-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
+#EXTINF:-1,CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1,DIRECTV Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1,FM 104.5 POWER MAX TV (RECREO)
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1,Play Television (Esperanza)
